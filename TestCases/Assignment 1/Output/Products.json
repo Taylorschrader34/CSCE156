@@ -1,0 +1,55 @@
+{
+"products": [
+  {
+    "startDate": "1998-10-27",
+    "endDate": "1999-10-26",
+    "address": {
+      "street": "2510 S. 36th St.",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68506",
+      "country": "USA"
+    },
+    "name": "Premium Package",
+    "cost": 100500.25,
+    "productCode": "PC1",
+    "productType": "Y"
+  },
+  {
+    "name": "Submarine-Small",
+    "cost": 69.420,
+    "productCode": "PC2",
+    "productType": "R"
+  },
+  {
+    "startDate": "1998-12-25",
+    "address": {
+      "street": "4111 W. Thatcher Cir.",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68528",
+      "country": "USA"
+    },
+    "cost": 300.00,
+    "productCode": "PC3",
+    "productType": "D"
+  },
+  {
+    "cost": 0.50,
+    "productCode": "PC4",
+    "productType": "P"
+  },
+  {
+    "startDate": "1999-1-30",
+    "address": {
+      "street": "1 Spur Road",
+      "city": "Westminster",
+      "state": "LN",
+      "zip": "SW1A",
+      "country": "UK"
+    },
+    "cost": 10.00,
+    "productCode": "PC5",
+    "productType": "D"
+  }
+]}

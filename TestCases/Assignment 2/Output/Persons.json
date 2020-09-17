@@ -1,0 +1,123 @@
+{
+"persons": [
+  {
+    "personCode": "9988",
+    "firstName": "Joe",
+    "lastName": "James",
+    "address": {
+      "street": "16 N. 4th St.",
+      "city": "Rockford",
+      "state": "IL",
+      "zip": "52100",
+      "country": "USA"
+    },
+    "emails": [
+      "jj@rockford.org"
+    ]
+  },
+  {
+    "personCode": "8520",
+    "firstName": "Don",
+    "lastName": "Trump",
+    "address": {
+      "street": "1 Whitehouse Way",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "00125",
+      "country": "USA"
+    },
+    "emails": [
+      "pres@wh.gov"
+    ]
+  },
+  {
+    "personCode": "A153",
+    "firstName": "Buddy",
+    "lastName": "Elf",
+    "address": {
+      "street": "25 North Pole",
+      "city": "North Pole",
+      "state": "NP",
+      "zip": "123456789",
+      "country": "NorthPole"
+    },
+    "emails": []
+  },
+  {
+    "personCode": "0998",
+    "firstName": "Logan",
+    "lastName": "McCarthy",
+    "address": {
+      "street": "4111 W. Thathcher Cir.",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68528",
+      "country": "USA"
+    },
+    "emails": [
+		"lmccarthy2@unl.edu"
+	]
+  },
+  {
+    "personCode": "0034",
+    "firstName": "Taylor",
+    "lastName": "Schrader",
+    "address": {
+      "street": "2510 S. 36th St.",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68506",
+      "country": "USA"
+    },
+    "emails": [
+		"tschrader4@unl.edu",
+		"taylor.schrader@huskers.unl.edu"
+	]
+  },
+  {
+    "personCode": "1234",
+    "firstName": "Sam",
+    "lastName": "Walton",
+    "address": {
+      "street": "2 Walmart Way",
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "35684",
+      "country": "USA"
+    },
+    "emails": [
+      "sam@walmart.net"
+    ]
+  },
+  {
+    "personCode": "7979",
+    "firstName": "John",
+    "lastName": "Jacob",
+    "address": {
+      "street": "1285 Cather Ln.",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68421",
+      "country": "USA"
+    },
+    "emails": [
+      "catherpound@unl.edu",
+	  "johnjacob1943@yahoo.com"
+    ]
+  },
+  {
+    "personCode": "QUEN",
+    "firstName": "Elizabeth",
+    "lastName": "II",
+    "address": {
+      "street": "1 Spur Road",
+      "city": "Westminster",
+      "state": "LN",
+      "zip": "SW1A",
+      "country": "UK"
+    },
+    "emails": [
+      "royal@england.uk"
+    ]
+  }
+]}

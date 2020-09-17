@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<persons>
+<person>
+  <personCode>9988</personCode>
+  <firstName>Joe</firstName>
+  <lastName>James</lastName>
+  <address>
+    <street>16 N. 4th St.</street>
+    <city>Rockford</city>
+    <state>IL</state>
+    <zip>52100</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>jj@rockford.org</email>
+  </emails>
+</person>
+<person>
+  <personCode>8520</personCode>
+  <firstName>Don</firstName>
+  <lastName>Trump</lastName>
+  <address>
+    <street>1 Whitehouse Way</street>
+    <city>Washington</city>
+    <state>DC</state>
+    <zip>00125</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>pres@wh.gov</email>
+  </emails>
+</person>
+<person>
+  <personCode>A153</personCode>
+  <firstName>Buddy</firstName>
+  <lastName>Elf</lastName>
+  <address>
+    <street>25 North Pole</street>
+    <city>North Pole</city>
+    <state>NP</state>
+    <zip>123456789</zip>
+    <country>NorthPole</country>
+  </address>
+  <emails/>
+</person>
+<person>
+  <personCode>0998</personCode>
+  <firstName>Logan</firstName>
+  <lastName>McCarthy</lastName>
+  <address>
+    <street>4111 W. Thathcher Cir.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68528</zip>
+    <country>USA</country>
+  </address>
+  <emails/>
+</person>
+<person>
+  <personCode>0034</personCode>
+  <firstName>Taylor</firstName>
+  <lastName>Schrader</lastName>
+  <address>
+    <street>2510 S. 36th St.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68506</zip>
+    <country>USA</country>
+  </address>
+  <emails/>
+</person>
+<person>
+  <personCode>1234</personCode>
+  <firstName>Sam</firstName>
+  <lastName>Walton</lastName>
+  <address>
+    <street>2 Walmart Way</street>
+    <city>Auburn</city>
+    <state>NE</state>
+    <zip>35684</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>sam@walmart.net</email>
+  </emails>
+</person>
+<person>
+  <personCode>7979</personCode>
+  <firstName>John</firstName>
+  <lastName>Jacob</lastName>
+  <address>
+    <street>1285 Cather Ln.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68421</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>catherpound@unl.edu</email>
+	<email>johnjacob1943@yahoo.com</email>
+  </emails>
+</person>
+<person>
+  <personCode>QUEN</personCode>
+  <firstName>Elizabeth</firstName>
+  <lastName>II</lastName>
+  <address>
+    <street>1 Spur Road</street>
+    <city>Westminster</city>
+    <state>LN</state>
+    <zip>SW1A</zip>
+    <country>UK</country>
+  </address>
+  <emails>
+    <email>royal@england.uk</email>
+  </emails>
+</person>
+</persons>

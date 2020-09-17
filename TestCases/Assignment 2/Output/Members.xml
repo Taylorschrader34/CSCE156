@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<members>
+<member>
+  <memberCode>A1</memberCode>
+  <type>Student</type>
+  <primaryContact>
+    <personCode>0998</personCode>
+    <firstName>Logan</firstName>
+    <lastName>McCarthy</lastName>
+    <address>
+      <street>4111 W. Thatcher Cir.</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68528</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>lmccarthy2@unl.edu</email>
+    </emails>
+  </primaryContact>
+  <memberName>Nagol</memberName>
+  <memberAddress>
+    <street>123 A St.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68518</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>A2</memberCode>
+  <type>General</type>
+  <primaryContact>
+    <personCode>0034</personCode>
+    <firstName>Taylor</firstName>
+    <lastName>Schrader</lastName>
+    <address>
+      <street>2510 S. 36th St.</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68506</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>tschrader4@unl.edu</email>
+      <email>taylor.schrader@huskers.unl.edu</email>
+    </emails>
+  </primaryContact>
+  <memberName>Schrader Inc.</memberName>
+  <memberAddress>
+    <street>1942 Google Dr.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>A3</memberCode>
+  <type>Student</type>
+  <primaryContact>
+    <personCode>1234</personCode>
+    <firstName>Sam</firstName>
+    <lastName>Walton</lastName>
+    <address>
+      <street>2 Walmart Way</street>
+      <city>Auburn</city>
+      <state>AL</state>
+      <zip>35684</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>sam@walmart.net</email>
+    </emails>
+  </primaryContact>
+  <memberName>Walmart</memberName>
+  <memberAddress>
+    <street>1 Walmart Way</street>
+    <city>Auburn</city>
+    <state>AL</state>
+    <zip>35684</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>A4</memberCode>
+  <type>Student</type>
+  <primaryContact>
+    <personCode>7979</personCode>
+    <firstName>John</firstName>
+    <lastName>Jacob</lastName>
+    <address>
+      <street>1285 Cather Lane</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68421</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>catherpound@unl.edu</email>
+      <email>johnjacob1943@yahoo.com</email>
+    </emails>
+  </primaryContact>
+  <memberName>Cather\Pound Inc.</memberName>
+  <memberAddress>
+    <street>1760 R. St.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68508</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>A5</memberCode>
+  <type>General</type>
+  <primaryContact>
+    <personCode>QUEN</personCode>
+    <firstName>Elizabeth</firstName>
+    <lastName>II</lastName>
+    <address>
+      <street>1 Spur Road</street>
+      <city>Westminster</city>
+      <state>LN</state>
+      <zip>SW1A</zip>
+      <country>UK</country>
+    </address>
+    <emails>
+      <email>royal@england.uk</email>
+    </emails>
+  </primaryContact>
+  <memberName>Buckingham Palace</memberName>
+  <memberAddress>
+    <street>1 Spur Road</street>
+    <city>Westminster</city>
+    <state>LN</state>
+    <zip>SW1A</zip>
+    <country>UK</country>
+  </memberAddress>
+</member>
+</members>

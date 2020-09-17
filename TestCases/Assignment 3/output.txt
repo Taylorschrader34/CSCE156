@@ -1,0 +1,83 @@
+Executive Summary Report
+=========================
+Invoice   Member                                            Personal Trainer                 Subtotal        Fees       Taxes    Discount       Total
+SALE001    Nagol [Student]                     			      Petterson, Cody              $     62.96 $      0.00 $      3.38 $    -0.00 $     66.34
+SALE002    Schrader Inc. [General]             			       Bolton, Seth                $   9056.83 $     10.50 $    541.63 $ -1266.18 $   8342.78
+SALE003    Buckingham Palace [General]          	      Thomas, Jackon                   $   3608.00 $      0.00 $    213.82 $    -0.00 $   3821.82
+=====================================================================================================================================================
+TOTALS                                                                                    $  12804.29 $     21.00 $    761.89 $ -1275.36 $  12311.82
+
+Individual Invoice Detail Reports
+==================================================
+Invoice SALE001
+========================
+Personal Trainer:  Petterson, Cody
+Member Info: 
+  Nagol (A1) 
+  [Student]
+  McCarthy, Logan
+  4111 W. Thatcher Cir.
+  Lincoln NE 68528 USA
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+PC1      Year-long membership @ 6545 W O.                          			   $     200.00 $      0.00 $     200.00
+          2017-12-11 - 2018-12-11 (2 units @ $21.5)                                                                                  
+PC4      Parking Pass PC1 (1 units @ $10.00 with 1 free/pass)                      $      0.00 $      0.00 $      0.00
+PC2      Rental Equipment - PC1 - Boxing Glove-Large                          $     833.04 $      0.00 $     833.04
+          (12 units @ $69.42/unit)                                                                                      
+                                                                                ====================================
+SUB-TOTALS                                                                      $     1033.04 $      0.00 $     1033.04
+DISCOUNT (8%  STUDENT & NO TAX)                                                                         $  -82.64
+ADDITIONAL FEE (Student)                                                                                $     10.50
+TOTAL                                                                                                   $     960.90
+
+
+			Thank you for your purchase!
+
+
+Invoice A2
+========================
+Personal Trainer: Bolton, Seth
+Member Info: 
+  Schrader INC. 
+  [General]
+  Schrader, Taylor
+  2510 S. 36th St.
+  Lincoln NE 68506 USA
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+PC3      Day-long membership '' @ 6545 W O.                 			 	       $   765.00 $    45.90 $   810.90
+          2018-01-01 (3 units @ $300.0 with %15 off)                                                          
+
+                                                                                ====================================
+SUB-TOTALS                                                                         $   765.00 $    45.90 $   810.90
+TOTAL                                                                                                    $   810.90
+
+
+			Thank you for your purchase!
+
+
+Invoice SALE003
+========================
+Personal Trainer: Thomas, Jackon
+Member Info: 
+  Hewlett Industries (QUEN) 
+  [General]
+  II, Elizabeth
+  Buckingham Palace
+  1 Spur Road Westminster LN SW1A UK
+-------------------------------------------
+Code      Item                                                                      SubTotal        Tax       Total
+PC5      Day-long membership @ 6301 University Ave                             $   19800000000 $    1188000000 $    20988000000
+          11/10/16 (66000000 units @ $300.0)                                                                                  
+PC7      Parking Pass                 											$   0.00 $    0.00 $   0.00
+          11/24/17 - 11/23/18 (66000000 units @ $10.00 with 1 free/pass)                                                                      
+PC6      Rental Equipment - PC1 - Crown                         $     65411 $     2616.44 $     68027.44
+          (1 units @ $65411/unit)                                                                                      
+
+                                                                                ====================================
+SUB-TOTALS                                                                      $   19800065411 $    1188002616.44$   20988068027.44
+TOTAL                                                                                                   $   20988068027.44
+
+
+			Thank you for your purchase!

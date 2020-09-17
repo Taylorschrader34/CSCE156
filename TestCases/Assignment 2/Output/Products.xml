@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<products>
+<year-long-membership>
+  <productCode>PC1</productCode>
+  <productType>Y</productType>
+  <startDate>1998-10-27</startDate>
+  <endDate>1999-10-26</endDate>
+  <address>
+    <street>2510 S. 36th St.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68506</zip>
+    <country>USA</country>
+  </address>
+  <name>Premium Package</name>
+  <cost>100500.25</cost>
+</year-long-membership>
+<rentals>
+  <productCode>PC2</productCode>
+  <productType>R</productType>
+  <name>Submarine-Small</name>
+  <cost>69.420</cost>
+</rentals>
+<day-long-membership>
+  <productCode>PC3</productCode>
+  <productType>D</productType>
+  <startDate>1998-12-25</startDate>
+  <address>
+    <street>4111 W. Thatcher Cir.</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68528</zip>
+    <country>USA</country>
+  </address>
+  <cost>300.00</cost>
+</day-long-membership>
+<parkingpass>
+  <productCode>PC4</productCode>
+  <productType>P</productType>
+  <cost>0.50</cost>
+</parkingpass>
+<day-long-membership>
+  <productCode>PC5</productCode>
+  <productType>D</productType>
+  <startDate>1999-1-30</startDate>
+  <address>
+    <street>1 Spur Road</street>
+    <city>Westminster</city>
+    <state>LN</state>
+    <zip>SW1A</zip>
+    <country>UK</country>
+  </address>
+  <cost>10.00</cost>
+</day-long-membership>
+</products>
